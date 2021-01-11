@@ -1,5 +1,7 @@
 # Repozytorium na potrzeby przedmiotu WIRDS 2021 -- dockerfile
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DepartmentOfStatisticsPUE/wirds-2021-binder-rocker-przyklad/main)
+
 Przykład z wykorzystaniem `dockerfile`, który wygląda następująco
 
 ```docker
